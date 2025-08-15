@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692114982129",
+    "firebase_url": "https://forever-rusher-default-rtdb.firebaseio.com",
+    "project_id": "forever-rusher",
+    "storage_bucket": "forever-rusher.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692114982129:android:dddbbfeca4153633329550",
+        "android_client_info": {
+          "package_name": "com.example.foreverrusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692114982129-0eg8v5ojd6qpqif2pvvgghqtr7gqjpqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foreverrusher",
+            "certificate_hash": "94e04fd067fdc61a7847ebdd63e6d6a3dbaf45f0"
+          }
+        },
+        {
+          "client_id": "692114982129-vbkaskf12u3543ddimirbe1725o0jt7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QieB0Lo-ZE8aSRxRg3936EkCzVYGrUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692114982129-vbkaskf12u3543ddimirbe1725o0jt7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
